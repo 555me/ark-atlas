@@ -120,7 +120,7 @@ while to_update_index < len(to_update):
                     "containerFull",
                     "--filter-with-regex",
                     "#[0-9]",
-                    "t",
+                    "-t",
                     "Texture2D",
                     "--log-level",
                     "warning",
