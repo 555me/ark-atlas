@@ -205,4 +205,4 @@ with open("bundles/hot_update_list.json", "w", encoding="utf-8") as file:
 subprocess.run(["git", "add", "bundles"], check=True)
 subprocess.run(["git", "commit", "-m", f"update {res_version} segment hot_update_list"], check=True)
 subprocess.run(["git", "push", "origin", branch], check=True)
-subprocess.run(["git", "checkout", "master"], check=True)
+subprocess.run(["git", "checkout", "main"], check=True)
