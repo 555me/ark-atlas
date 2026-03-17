@@ -1,11 +1,11 @@
 {
-    "versionId": "26-03-13-06-00-56_9b88cf",
+    "versionId": "26-03-17-10-12-24_abe4fc",
     "abInfos": [
         {
-            "name": "81c6616d7f0139e0bf53788738dcb919.idx",
-            "hash": "26-03-13-06-00-56_9b88cf",
-            "md5": "2bb86f36d47fa58d4818490f42267886",
-            "totalSize": 3165424,
+            "name": "b9d931be7ff5d38c8935b4b7c259d76b.idx",
+            "hash": "26-03-17-10-12-24_abe4fc",
+            "md5": "efad5ce7b68395fbe1c4c69f56e30f76",
+            "totalSize": 3165450,
             "abSize": 30574440,
             "cid": 1,
             "cat": 1
@@ -281,10 +281,10 @@
         },
         {
             "name": "config/buff_template_holder.ab",
-            "hash": "bfbaaeb68671de9f1f072a8db0d19fee",
-            "md5": "b2239007f34c44c6d9ed494a5f2eb733",
-            "totalSize": 1282897,
-            "abSize": 1630744,
+            "hash": "dcbce76ce41789f9a47bbd723dcc2085",
+            "md5": "eb6d4de42ee544c8baa224b820c0b60e",
+            "totalSize": 1283426,
+            "abSize": 1631821,
             "cid": 34
         },
         {
@@ -18085,11 +18085,11 @@
             "meta": 1
         },
         {
-            "name": "anon/d97456bf50e41fedd7e1c766e2fa1eab.bin",
+            "name": "anon/412cad5dba93fb3939bebdfa36a97291.bin",
             "hash": "969a",
             "md5": "969a",
-            "totalSize": 1520531,
-            "abSize": 1923807,
+            "totalSize": 1520267,
+            "abSize": 1923487,
             "cid": 2013,
             "meta": 1
         },
@@ -39559,10 +39559,10 @@
         },
         {
             "name": "battle/prefabs/effects/heyak.ab",
-            "hash": "d58d9a88825d21d04f09101485435b8c",
-            "md5": "49acc85fab8a981c0b5ccd051c7ba826",
-            "totalSize": 1485581,
-            "abSize": 1913797,
+            "hash": "381b6e00c847fba7d1a05ba0ba6e5c8d",
+            "md5": "69aa586d2c4140c6073a61d4837bff2f",
+            "totalSize": 1486532,
+            "abSize": 1915318,
             "pid": "lpack_init4",
             "cid": 4439
         },
@@ -125129,7 +125129,7 @@
             "cid": 13823
         }
     ],
-    "manifestName": "81c6616d7f0139e0bf53788738dcb919.idx",
+    "manifestName": "b9d931be7ff5d38c8935b4b7c259d76b.idx",
     "manifestVersion": "V071",
     "packInfos": [
         {
@@ -125160,7 +125160,7 @@
             "name": "lpack_init4",
             "hash": "",
             "md5": "",
-            "totalSize": 329457381,
+            "totalSize": 329458332,
             "abSize": 0,
             "cid": 13827
         },
