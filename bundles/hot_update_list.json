@@ -1,11 +1,11 @@
 {
-    "versionId": "26-04-13-12-29-41_4d2034",
+    "versionId": "26-04-14-11-13-05_093e9e",
     "abInfos": [
         {
-            "name": "ad47bb23a59440e185e19934d806ee12.idx",
-            "hash": "26-04-13-12-29-41_4d2034",
-            "md5": "2ce9e925c01e9ebe3e302d6d479ed5f2",
-            "totalSize": 3194420,
+            "name": "37e35db0985eb01656fee14f67888cd6.idx",
+            "hash": "26-04-14-11-13-05_093e9e",
+            "md5": "e6dda01c138e96f5f735ada23aef6353",
+            "totalSize": 3194415,
             "abSize": 30874664,
             "cid": 1,
             "cat": 1
@@ -281,10 +281,10 @@
         },
         {
             "name": "config/buff_template_holder.ab",
-            "hash": "162bee29a68dd13c1b7355fea6cfe4c6",
-            "md5": "7eab8395f83fb0cc33f3c16c4f466ac6",
-            "totalSize": 1311167,
-            "abSize": 1666175,
+            "hash": "789440e859b1f504e0ca97d2efaaf689",
+            "md5": "fe1b1d2ef10f804da79f9ee62ee3a10c",
+            "totalSize": 1311161,
+            "abSize": 1666167,
             "cid": 34
         },
         {
@@ -18484,9 +18484,9 @@
         {
             "name": "cutin/characters/cutin_char.ab",
             "hash": "9713d3617a1aaccbd0de72eeaa83af79",
-            "md5": "a949a808e9af8c2ef5621047fdc4b912",
-            "totalSize": 2289,
-            "abSize": 2883,
+            "md5": "9ce16d7a5a2bfc419909fc4ff2315a35",
+            "totalSize": 2294,
+            "abSize": 2884,
             "cid": 2057
         },
         {
@@ -18534,7 +18534,7 @@
             "meta": 1
         },
         {
-            "name": "anon/5fce6ad8ebad0da5eb961a66b04eafcf.bin",
+            "name": "anon/db321cd4b3255cc8443d873a882058c0.bin",
             "hash": "969a",
             "md5": "969a",
             "totalSize": 1555855,
@@ -21740,9 +21740,9 @@
         {
             "name": "skinpack/char_1028_texas2.ab",
             "hash": "3fe29134dd43da18de7d743b1f8747a2",
-            "md5": "982307c8b1e565a348f9905bd118ba0b",
-            "totalSize": 7969606,
-            "abSize": 8898498,
+            "md5": "abaac21c64fd51f22ff9c4dab7ade16b",
+            "totalSize": 7967976,
+            "abSize": 8896232,
             "pid": "lpack_misc10",
             "cid": 2420
         },
@@ -21782,9 +21782,9 @@
         {
             "name": "chararts/char_1031_slent2.ab",
             "hash": "02bbae68a90ac888f3c93f36df308652",
-            "md5": "c69243962ec6842426da170be477f81e",
-            "totalSize": 5835602,
-            "abSize": 6551004,
+            "md5": "38bc0fddb702ffd7eaad136842e57080",
+            "totalSize": 5835843,
+            "abSize": 6552077,
             "cid": 2425
         },
         {
@@ -22551,9 +22551,9 @@
         {
             "name": "skinpack/char_144_red.ab",
             "hash": "4a03fd274ee6c4e2294b39237ca642b4",
-            "md5": "a3de383fd5aef41d2eb5f2c19d436274",
-            "totalSize": 2216703,
-            "abSize": 2522775,
+            "md5": "e516e116c5403643a01d7158bf2ab4de",
+            "totalSize": 2216278,
+            "abSize": 2522657,
             "pid": "lpack_misc11",
             "cid": 2516
         },
@@ -22933,9 +22933,9 @@
         {
             "name": "skinpack/char_183_skgoat.ab",
             "hash": "f9d330bb79daebcecff1a6dbfd4d567e",
-            "md5": "683d150b63b7583bdf6b9a886a5292fc",
-            "totalSize": 2706154,
-            "abSize": 3027340,
+            "md5": "0419ae51758bc6788c0b7071017239a4",
+            "totalSize": 2706350,
+            "abSize": 3028044,
             "pid": "lpack_misc11",
             "cid": 2561
         },
@@ -23052,9 +23052,9 @@
         {
             "name": "chararts/char_195_glassb.ab",
             "hash": "22fbd1c4ae0bf7123cc581cc0e76d0b0",
-            "md5": "74c4d07eab867505936dcb08fc43d795",
-            "totalSize": 3224408,
-            "abSize": 3550883,
+            "md5": "c1da7fe156a89163e897b171a086bfe3",
+            "totalSize": 3224468,
+            "abSize": 3551088,
             "cid": 2575
         },
         {
@@ -23086,9 +23086,9 @@
         {
             "name": "chararts/char_197_poca.ab",
             "hash": "b22694f7e1da4d6911bcb451abb21019",
-            "md5": "0a330e8d1efa17f93ff25466dd892e46",
-            "totalSize": 5126218,
-            "abSize": 5578579,
+            "md5": "b0aebeebaa22a58aca19891e77174830",
+            "totalSize": 5126371,
+            "abSize": 5578459,
             "cid": 2579
         },
         {
@@ -23247,9 +23247,9 @@
         {
             "name": "skinpack/char_2024_chyue.ab",
             "hash": "de903d7b5cc48c49981dbff0bc36a776",
-            "md5": "3140494c25da8da923b58e0dd03ea63d",
-            "totalSize": 7476085,
-            "abSize": 8319027,
+            "md5": "a48833ccc3e513959876e1ed2870d312",
+            "totalSize": 7476947,
+            "abSize": 8319569,
             "pid": "lpack_misc12",
             "cid": 2598
         },
@@ -23315,9 +23315,9 @@
         {
             "name": "chararts/char_204_platnm.ab",
             "hash": "e91e7b4787375e239f1a80a5718cf8f6",
-            "md5": "4f783968bc12207eb4317b757bd18b3a",
-            "totalSize": 2889986,
-            "abSize": 3320325,
+            "md5": "0725d6d663ee7e0bf7682e695e5bfdea",
+            "totalSize": 2890038,
+            "abSize": 3320587,
             "cid": 2606
         },
         {
@@ -24980,9 +24980,9 @@
         {
             "name": "skinpack/char_383_snsant.ab",
             "hash": "4371bb2b4b75bbe75a39596cd85c022b",
-            "md5": "46fbe28974cdf47311660d47961d62bd",
-            "totalSize": 3470928,
-            "abSize": 3971983,
+            "md5": "db9801fc707cec79491958f58580e6ab",
+            "totalSize": 3470910,
+            "abSize": 3971802,
             "pid": "lpack_misc13",
             "cid": 2802
         },
@@ -25378,9 +25378,9 @@
         {
             "name": "chararts/char_4036_forcer.ab",
             "hash": "2791a83d656b64c4c298c0c8acaeb578",
-            "md5": "7f89e739e394a2c9fc7e8bb10598641f",
-            "totalSize": 4773250,
-            "abSize": 5398249,
+            "md5": "b64dc2331f5bf13670455410b792f2fe",
+            "totalSize": 4773099,
+            "abSize": 5398320,
             "cid": 2849
         },
         {
@@ -25454,9 +25454,9 @@
         {
             "name": "chararts/char_4042_lumen.ab",
             "hash": "cff179423e4e14ef091447ea59070a7c",
-            "md5": "b1069226586e03ad21bc2ca6bbefdced",
-            "totalSize": 5191036,
-            "abSize": 5757503,
+            "md5": "9c854ddfe9e2bf8ca87860f8bbfaa64a",
+            "totalSize": 5190907,
+            "abSize": 5757299,
             "cid": 2858
         },
         {
@@ -25496,9 +25496,9 @@
         {
             "name": "skinpack/char_4045_heidi.ab",
             "hash": "b95659d3f20e65fbe5d18e75c8f89976",
-            "md5": "6f7e76fe32f008887014a6e853507980",
-            "totalSize": 3491415,
-            "abSize": 4061026,
+            "md5": "6350e37e523b95960f341b8217fdd66e",
+            "totalSize": 3491637,
+            "abSize": 4060982,
             "pid": "lpack_misc13",
             "cid": 2863
         },
@@ -25530,9 +25530,9 @@
         {
             "name": "skinpack/char_4047_pianst.ab",
             "hash": "cfdcc545e3ad0995935d60c197f0f8f9",
-            "md5": "cdbdb964a1c0ad801b4d0365771de53f",
-            "totalSize": 3653089,
-            "abSize": 4061893,
+            "md5": "2219a9cf6f01947805274f991640ccf3",
+            "totalSize": 3653761,
+            "abSize": 4061608,
             "pid": "lpack_misc13",
             "cid": 2867
         },
@@ -25615,9 +25615,9 @@
         {
             "name": "chararts/char_4056_titi.ab",
             "hash": "2cbcf042148efa0d37072624aa782ae3",
-            "md5": "1f670c4eee43a0e0b4e20537fdde7813",
-            "totalSize": 4562976,
-            "abSize": 5137142,
+            "md5": "1f4ef7dbb349c4a6a91f29f0e9224889",
+            "totalSize": 4562953,
+            "abSize": 5137202,
             "cid": 2877
         },
         {
@@ -25852,9 +25852,9 @@
         {
             "name": "chararts/char_4081_warmy.ab",
             "hash": "a1c250fadd5aca75257adc64d285ee55",
-            "md5": "cbd21aacd8e5b352eaa05d0813a0cb3a",
-            "totalSize": 2846638,
-            "abSize": 3102237,
+            "md5": "13fb81ba42598ea047ee0f2e8aa8726f",
+            "totalSize": 2846955,
+            "abSize": 3101977,
             "cid": 2905
         },
         {
@@ -26106,9 +26106,9 @@
         {
             "name": "chararts/char_4114_harold.ab",
             "hash": "8ea20425024c72598a5974fb6f2081ce",
-            "md5": "d11bec45e976cf006d43d7a04bc651c8",
-            "totalSize": 6222697,
-            "abSize": 6760723,
+            "md5": "927d4c9f1ed83158038516e98c36d5e6",
+            "totalSize": 6222902,
+            "abSize": 6759759,
             "cid": 2935
         },
         {
@@ -26123,9 +26123,9 @@
         {
             "name": "chararts/char_4116_blkkgt.ab",
             "hash": "8ef8452f83419964454a32294ae21432",
-            "md5": "4d55bdf3762d5fc77c717cd52446bf56",
-            "totalSize": 5605918,
-            "abSize": 6131239,
+            "md5": "ababab1f7b5bea66a7dffb053fb2fdc7",
+            "totalSize": 5605686,
+            "abSize": 6130491,
             "cid": 2937
         },
         {
@@ -26191,9 +26191,9 @@
         {
             "name": "chararts/char_4121_zuole.ab",
             "hash": "03295674f9fa3ba09ce27825b594c619",
-            "md5": "571d6c078fce33526e8feed3c6895c6c",
-            "totalSize": 5904586,
-            "abSize": 6572604,
+            "md5": "bde93574dbd6bbf49c514648ff790447",
+            "totalSize": 5903886,
+            "abSize": 6571592,
             "cid": 2945
         },
         {
@@ -26276,17 +26276,17 @@
         {
             "name": "chararts/char_4126_fuze.ab",
             "hash": "3ae3dbb8fd4a116df9911066cc9429ca",
-            "md5": "25f752c33e77690001c7d526cc679ab2",
-            "totalSize": 4133282,
-            "abSize": 4570951,
+            "md5": "d3bde9b44251e4fe1e728dfa50a7e97d",
+            "totalSize": 4133186,
+            "abSize": 4570234,
             "cid": 2955
         },
         {
             "name": "chararts/char_4130_luton.ab",
             "hash": "f20d154b019f24526495f09a8ca85e67",
-            "md5": "123dfc2a2a8f52b1f1a400d96392593e",
-            "totalSize": 3563452,
-            "abSize": 4018974,
+            "md5": "96d95d77054f1921e0845639fab92c9a",
+            "totalSize": 3563703,
+            "abSize": 4019111,
             "cid": 2956
         },
         {
@@ -26788,9 +26788,9 @@
         {
             "name": "skinpack/char_4184_dolris.ab",
             "hash": "970a88a520d258323d2050b630d3fff0",
-            "md5": "79eeb992ac7ec2c8d8d03c8999f032bc",
-            "totalSize": 4470455,
-            "abSize": 4875925,
+            "md5": "a9d3564a12a1e8e66bedd9d5a5ef3add",
+            "totalSize": 4470650,
+            "abSize": 4876196,
             "pid": "lpack_misc14",
             "cid": 3016
         },
@@ -27379,9 +27379,9 @@
         {
             "name": "skinpack/char_464_cement.ab",
             "hash": "97dba3db85efb804e99f81142d826865",
-            "md5": "099e82636a393891379eeeb409049ea1",
-            "totalSize": 3325713,
-            "abSize": 3660654,
+            "md5": "2521ca2086243ac833e8ed664e505655",
+            "totalSize": 3325892,
+            "abSize": 3661533,
             "pid": "lpack_misc15",
             "cid": 3087
         },
@@ -27481,9 +27481,9 @@
         {
             "name": "skinpack/char_475_akafyu.ab",
             "hash": "3c0d1fe309196c16f702a5e129dd6fc8",
-            "md5": "f6a6b3711ddb28ec0b8ba2f4b78d119b",
-            "totalSize": 4047844,
-            "abSize": 4553062,
+            "md5": "02bf07a7ab858831e822404506739ef6",
+            "totalSize": 4048280,
+            "abSize": 4553726,
             "pid": "lpack_misc15",
             "cid": 3099
         },
@@ -27609,9 +27609,9 @@
         {
             "name": "chararts/char_488_buildr.ab",
             "hash": "c48d204d684c87a224555f9a3074ac7a",
-            "md5": "d9f2574bcd1042cfd023d0c48f2a4f47",
-            "totalSize": 5002307,
-            "abSize": 5622344,
+            "md5": "fc6c81c9af4716bbcb61a94f04d12b24",
+            "totalSize": 5002643,
+            "abSize": 5622798,
             "cid": 3114
         },
         {
@@ -27921,9 +27921,9 @@
         {
             "name": "chararts/char_605_cmedic.ab",
             "hash": "35a2a4ee21e387b708cbd1e105af04dd",
-            "md5": "d292eadade35252473de28966a0db7ab",
-            "totalSize": 341484,
-            "abSize": 390191,
+            "md5": "b9d2d3ef4340be50c7b77c2d528cabfb",
+            "totalSize": 341531,
+            "abSize": 390342,
             "cid": 3152
         },
         {
@@ -31300,9 +31300,9 @@
         {
             "name": "arts/ui/homecheckinprogressgpicon/home_check_in_gp_icon_hub.ab",
             "hash": "4070c454e60593712e5b9f7e75047cf4",
-            "md5": "90cbd25ded4c1f3cfbcb3f42dbe4d051",
-            "totalSize": 2260,
-            "abSize": 2714,
+            "md5": "d4eaa83b5987a80f3521d3be2910b7d6",
+            "totalSize": 2266,
+            "abSize": 2715,
             "pid": "lpack_init3",
             "cid": 3520
         },
@@ -49336,9 +49336,9 @@
         {
             "name": "arts/ui/artgallery/collecttypepic/collect_type_hub.ab",
             "hash": "1938964b58f31523fec542e1a838cb0c",
-            "md5": "69f0a69465d5e6093ea180c8d40410c2",
-            "totalSize": 2227,
-            "abSize": 2717,
+            "md5": "7d178bf409ef09ff3d4fb640ea7c22cc",
+            "totalSize": 2233,
+            "abSize": 2718,
             "pid": "lpack_init5",
             "cid": 5530
         },
@@ -49597,9 +49597,9 @@
         {
             "name": "arts/ui/homebackground/itemicon/home_background_icon_hub.ab",
             "hash": "6d68d1fea833f5a84db03d74439f69ce",
-            "md5": "152ffda346ce45220dbede4151aab8a7",
-            "totalSize": 2466,
-            "abSize": 2997,
+            "md5": "ca1a2d300a0f2ce650b318068271e5cc",
+            "totalSize": 2473,
+            "abSize": 2998,
             "pid": "lpack_init5",
             "cid": 5559
         },
@@ -97615,10 +97615,10 @@
         },
         {
             "name": "arts/maps/map_secretroom/res.ab",
-            "hash": "fef0f0d9c730006f22cc4e4f412e7d69",
-            "md5": "f6a814b2870aed05c1309cf31e4439de",
-            "totalSize": 1151375,
-            "abSize": 1379152,
+            "hash": "99e109cceb5f42c061e31887e2f63baa",
+            "md5": "36abbb6f5094c5f03ddbf1930f0ec615",
+            "totalSize": 1151350,
+            "abSize": 1379058,
             "pid": "lpack_init9",
             "cid": 10724
         },
@@ -98280,9 +98280,9 @@
         {
             "name": "skinpack/token_10000_silent_healrb.ab",
             "hash": "5ec8a9467883a0e4fa74143c6012dcb9",
-            "md5": "1f3d9f133227d1238e497183bf0dd764",
-            "totalSize": 22266,
-            "abSize": 27253,
+            "md5": "ef4375b324f8898ee9c29425e2979f3f",
+            "totalSize": 22341,
+            "abSize": 27327,
             "pid": "lpack_misc15",
             "cid": 10798
         },
@@ -98388,9 +98388,9 @@
         {
             "name": "skinpack/token_10011_beewax_oblisk.ab",
             "hash": "f561b4acf4c4af8bf84160a91dc81a09",
-            "md5": "9426660c584e041ea8ac2b9a54d5f383",
-            "totalSize": 57938,
-            "abSize": 71020,
+            "md5": "5b595b8d0b1b1dceb1fedcb377ae697f",
+            "totalSize": 58008,
+            "abSize": 71119,
             "pid": "lpack_misc15",
             "cid": 10810
         },
@@ -98577,9 +98577,9 @@
         {
             "name": "skinpack/token_10030_mlyss_wtrman.ab",
             "hash": "715a32c97f246771b72dc8eceacf7833",
-            "md5": "5d16f10c1050a332d8cece35e0b22488",
-            "totalSize": 387820,
-            "abSize": 496657,
+            "md5": "82d8116ec9b3d355f15520bc4588c686",
+            "totalSize": 388352,
+            "abSize": 496239,
             "pid": "lpack_misc15",
             "cid": 10831
         },
@@ -125994,10 +125994,10 @@
         },
         {
             "name": "refs/arts/enm_art_5.ab",
-            "hash": "0518c2cd74ee3ccacf886becc99fe34e",
-            "md5": "2063dce359add964b350ae5930351f39",
-            "totalSize": 2673148,
-            "abSize": 3328567,
+            "hash": "7283a2bfe871db6c471dc9c20b559faf",
+            "md5": "4b1b0b1a554d32f44e622658591e9334",
+            "totalSize": 2674834,
+            "abSize": 3331839,
             "cid": 13918
         },
         {
@@ -126217,7 +126217,7 @@
             "cid": 13943
         }
     ],
-    "manifestName": "ad47bb23a59440e185e19934d806ee12.idx",
+    "manifestName": "37e35db0985eb01656fee14f67888cd6.idx",
     "manifestVersion": "V072",
     "packInfos": [
         {
@@ -126240,7 +126240,7 @@
             "name": "lpack_init3",
             "hash": "",
             "md5": "",
-            "totalSize": 391692092,
+            "totalSize": 391692098,
             "abSize": 0,
             "cid": 13946
         },
@@ -126256,7 +126256,7 @@
             "name": "lpack_init5",
             "hash": "",
             "md5": "",
-            "totalSize": 364378519,
+            "totalSize": 364378532,
             "abSize": 0,
             "cid": 13948
         },
@@ -126288,7 +126288,7 @@
             "name": "lpack_init9",
             "hash": "",
             "md5": "",
-            "totalSize": 220739515,
+            "totalSize": 220739490,
             "abSize": 0,
             "cid": 13952
         },
@@ -126368,7 +126368,7 @@
             "name": "lpack_misc10",
             "hash": "",
             "md5": "",
-            "totalSize": 376752289,
+            "totalSize": 376750659,
             "abSize": 0,
             "cid": 13962
         },
@@ -126376,7 +126376,7 @@
             "name": "lpack_misc11",
             "hash": "",
             "md5": "",
-            "totalSize": 380732531,
+            "totalSize": 380732302,
             "abSize": 0,
             "cid": 13963
         },
@@ -126384,7 +126384,7 @@
             "name": "lpack_misc12",
             "hash": "",
             "md5": "",
-            "totalSize": 376213045,
+            "totalSize": 376213907,
             "abSize": 0,
             "cid": 13964
         },
@@ -126392,7 +126392,7 @@
             "name": "lpack_misc13",
             "hash": "",
             "md5": "",
-            "totalSize": 378877710,
+            "totalSize": 378878586,
             "abSize": 0,
             "cid": 13965
         },
@@ -126400,7 +126400,7 @@
             "name": "lpack_misc14",
             "hash": "",
             "md5": "",
-            "totalSize": 379095192,
+            "totalSize": 379095387,
             "abSize": 0,
             "cid": 13966
         },
@@ -126408,7 +126408,7 @@
             "name": "lpack_misc15",
             "hash": "",
             "md5": "",
-            "totalSize": 276529507,
+            "totalSize": 276530799,
             "abSize": 0,
             "cid": 13967
         },
