@@ -1,12 +1,12 @@
 {
-    "versionId": "26-06-05-05-57-30_547086",
+    "versionId": "26-06-11-05-43-03_ea1716",
     "abInfos": [
         {
-            "name": "3e3c594d2207e91e66fa491b08048c5e.idx",
-            "hash": "26-06-05-05-57-30_547086",
-            "md5": "5a5945c900f88f04d4fffe018fdc1cc8",
-            "totalSize": 3376226,
-            "abSize": 32541432,
+            "name": "f633fb4c22d69139e65754b4f75acaca.idx",
+            "hash": "26-06-11-05-43-03_ea1716",
+            "md5": "b1683af57a41bc12db2f6ec8f8b3f2d1",
+            "totalSize": 3376229,
+            "abSize": 32541628,
             "cid": 1,
             "cat": 1
         },
@@ -281,10 +281,10 @@
         },
         {
             "name": "config/buff_template_holder.ab",
-            "hash": "3fdf39b50f9a745b11216260a9354445",
-            "md5": "cf742f9efa035e00df69423092b508ae",
-            "totalSize": 1379019,
-            "abSize": 1751418,
+            "hash": "2a1b247600bfaf420c306e75180ea17a",
+            "md5": "63164187d0a0fe79a21c8882e4087683",
+            "totalSize": 1378940,
+            "abSize": 1751588,
             "cid": 34
         },
         {
@@ -19542,11 +19542,11 @@
             "meta": 1
         },
         {
-            "name": "anon/4bbda27544873b7d75a95d92e4395ba5.bin",
+            "name": "anon/0647a89fe45efbf886a23a031295111e.bin",
             "hash": "969a",
             "md5": "969a",
-            "totalSize": 1629743,
-            "abSize": 2066620,
+            "totalSize": 1629867,
+            "abSize": 2066364,
             "cid": 2175,
             "meta": 1
         },
@@ -19759,20 +19759,20 @@
             "meta": 1
         },
         {
-            "name": "anon/0151ab91f481cd59eb431e0c25fc1abe.bin",
+            "name": "anon/db79da8949f8f022b2079fa36cb1a79a.bin",
             "hash": "29df",
             "md5": "29df",
-            "totalSize": 1415,
+            "totalSize": 1416,
             "abSize": 1572,
             "cid": 2199,
             "meta": 1
         },
         {
-            "name": "anon/55e86360e4952c2dfb8b8e40c616e1a1.bin",
+            "name": "anon/d37cb7b03f2c6231a5fcc95051060b24.bin",
             "hash": "d796",
             "md5": "d796",
-            "totalSize": 81413,
-            "abSize": 100946,
+            "totalSize": 81442,
+            "abSize": 100971,
             "cid": 2200,
             "cat": 1,
             "meta": 1
@@ -19870,11 +19870,11 @@
             "meta": 1
         },
         {
-            "name": "anon/524edc5c3bec6cf019ebc6eca76f4c1b.bin",
+            "name": "anon/9edd3178762301abfbfb3cd24f23a0d0.bin",
             "hash": "f787",
             "md5": "f787",
-            "totalSize": 338701,
-            "abSize": 453370,
+            "totalSize": 338709,
+            "abSize": 453372,
             "cid": 2211,
             "meta": 1
         },
@@ -19996,11 +19996,11 @@
             "meta": 1
         },
         {
-            "name": "anon/922ac7936d60462fb2cd13204ca2fc13.bin",
+            "name": "anon/ee2eea4c4a1dd9354908a2296a58f684.bin",
             "hash": "652c",
             "md5": "652c",
-            "totalSize": 586065,
-            "abSize": 777141,
+            "totalSize": 586298,
+            "abSize": 776829,
             "cid": 2225,
             "meta": 1
         },
@@ -20133,11 +20133,11 @@
             "meta": 1
         },
         {
-            "name": "anon/e170ccc066acb535adc6420c17c32971.bin",
+            "name": "anon/ab3106cc753756f743620d628a34dd9a.bin",
             "hash": "d21c",
             "md5": "d21c",
-            "totalSize": 1115786,
-            "abSize": 1124841,
+            "totalSize": 1118324,
+            "abSize": 1127722,
             "cid": 2240,
             "cat": 1,
             "meta": 1
@@ -44836,10 +44836,10 @@
         },
         {
             "name": "battle/enm_pfb_31.ab",
-            "hash": "1d3f223d34d20f06528d61f448786000",
-            "md5": "fb3e15ac3218127928db587791258dc4",
-            "totalSize": 369066,
-            "abSize": 459958,
+            "hash": "b686941361b2d4910482a005f43c4390",
+            "md5": "0d5ec056bf7ae9c761e0a29297d4d822",
+            "totalSize": 369137,
+            "abSize": 460203,
             "pid": "lpack_init4",
             "cid": 5028
         },
@@ -61175,10 +61175,10 @@
         },
         {
             "name": "audio/sound_beta_2/player/p_atk_6.ab",
-            "hash": "f5b64647cea3f72698d0c071db129eab",
-            "md5": "5a05c6b8ebef33f5f0a29d6c5fd51be0",
-            "totalSize": 1619844,
-            "abSize": 1625400,
+            "hash": "f98275a9f9ec149f807392994515e110",
+            "md5": "6958c00f4d79539bebe97795fd4df60e",
+            "totalSize": 1610133,
+            "abSize": 1615734,
             "pid": "lpack_misc16",
             "cid": 6848
         },
@@ -131005,7 +131005,7 @@
             "cid": 14477
         }
     ],
-    "manifestName": "3e3c594d2207e91e66fa491b08048c5e.idx",
+    "manifestName": "f633fb4c22d69139e65754b4f75acaca.idx",
     "manifestVersion": "V074",
     "packInfos": [
         {
@@ -131036,7 +131036,7 @@
             "name": "lpack_init4",
             "hash": "",
             "md5": "",
-            "totalSize": 334883798,
+            "totalSize": 334883869,
             "abSize": 0,
             "cid": 14481
         },
@@ -131212,7 +131212,7 @@
             "name": "lpack_misc16",
             "hash": "",
             "md5": "",
-            "totalSize": 159422556,
+            "totalSize": 159412845,
             "abSize": 0,
             "cid": 14503
         },
