@@ -1,12 +1,12 @@
 {
-    "versionId": "26-07-08-12-08-45_740b46",
+    "versionId": "26-07-10-13-52-38_fcd8ed",
     "abInfos": [
         {
-            "name": "2a67d55e5b7090ad54f2f335a067a659.idx",
-            "hash": "26-07-08-12-08-45_740b46",
-            "md5": "b55c3bfdfc30b55641d7343a38614472",
-            "totalSize": 3386474,
-            "abSize": 32650192,
+            "name": "74421a7e5a4a74113c80ea501671bf4c.idx",
+            "hash": "26-07-10-13-52-38_fcd8ed",
+            "md5": "8d3ef53d16b35e4c983cddccf4cde5d9",
+            "totalSize": 3386451,
+            "abSize": 32650560,
             "cid": 1,
             "cat": 1
         },
@@ -19732,11 +19732,11 @@
             "meta": 1
         },
         {
-            "name": "anon/3e8b1bb5e5833f9bbba32b0243fe2839.bin",
+            "name": "anon/80cc99e8bcd93d1ad92226dbaed13c61.bin",
             "hash": "1429",
             "md5": "1429",
-            "totalSize": 754449,
-            "abSize": 969938,
+            "totalSize": 754293,
+            "abSize": 969858,
             "cid": 2196,
             "meta": 1
         },
@@ -19831,7 +19831,7 @@
             "meta": 1
         },
         {
-            "name": "anon/b1e730a589c63e2eaddc0ae21deab0a2.bin",
+            "name": "anon/684fd9c03dbe6f37c5c85365b1209fbf.bin",
             "hash": "29df",
             "md5": "29df",
             "totalSize": 1415,
@@ -20205,11 +20205,11 @@
             "meta": 1
         },
         {
-            "name": "anon/dc6ee587988fb4d361740af357bea4ae.bin",
+            "name": "anon/88b0ccf65fd97ffe7e35e9f8e3eaa65a.bin",
             "hash": "d21c",
             "md5": "d21c",
-            "totalSize": 1111710,
-            "abSize": 1121719,
+            "totalSize": 1118439,
+            "abSize": 1127856,
             "cid": 2248,
             "cat": 1,
             "meta": 1
@@ -45023,10 +45023,10 @@
         },
         {
             "name": "battle/enm_pfb_29.ab",
-            "hash": "6387bc42927705d3074c0399aad1a4fc",
-            "md5": "4a2ee5032977a6d5e355b52dc92a3d27",
-            "totalSize": 322297,
-            "abSize": 406638,
+            "hash": "7c1e59d83dbde814db875ab475ca88bb",
+            "md5": "7f5a634db9770445fd9aabef4c8128cc",
+            "totalSize": 322423,
+            "abSize": 406850,
             "pid": "lpack_init4",
             "cid": 5049
         },
@@ -45336,10 +45336,10 @@
         },
         {
             "name": "pkgrps/btl_pfb_tokens_5.ab",
-            "hash": "033d73b27b330fafad75502482d839c0",
-            "md5": "9f73f308c1fcd5950660b1c0d2f7e5b5",
-            "totalSize": 1860135,
-            "abSize": 2247576,
+            "hash": "fa245bbbf1b97ffc2ef3a785df248dc5",
+            "md5": "66b804d139f09e5272b54b95b1d6dbcc",
+            "totalSize": 1860309,
+            "abSize": 2247543,
             "cid": 5084
         },
         {
@@ -53621,10 +53621,10 @@
         },
         {
             "name": "arts/ui/stage_mappreview_h2_act21mini_1_0.ab",
-            "hash": "aece22a89ccebb26add5d7778870169f",
-            "md5": "53f18d05b93a69282608b6b9422d7d9d",
-            "totalSize": 1915968,
-            "abSize": 2031052,
+            "hash": "abcf5a663421e7a215f9a6b2dc0993a0",
+            "md5": "227739097e27943cf68ded72c02dd8a7",
+            "totalSize": 1915631,
+            "abSize": 2031799,
             "pid": "lpack_lart1",
             "cid": 6007
         },
@@ -83368,11 +83368,11 @@
             "cid": 9099
         },
         {
-            "name": "anon/7ff45ec7137c0d090e1894dae7d393ff.bin",
+            "name": "anon/c8c612893329675642b154a90fc1aa89.bin",
             "hash": "cc8f",
             "md5": "cc8f",
-            "totalSize": 3110045,
-            "abSize": 4237698,
+            "totalSize": 3110136,
+            "abSize": 4237956,
             "cid": 9100,
             "meta": 1
         },
@@ -86392,10 +86392,10 @@
         },
         {
             "name": "scenes/activities/act21mini/level_act21mini_04/level_act21mini_04.ab",
-            "hash": "33a2101613742819a55c1e26864a2117",
-            "md5": "20791a9030d34163a579ee962751659c",
-            "totalSize": 949557,
-            "abSize": 1302184,
+            "hash": "4e7148ff2fad77da26507168388bc2f7",
+            "md5": "54128f7f458c30ad3b062fdc34b395fb",
+            "totalSize": 957097,
+            "abSize": 1303590,
             "pid": "lpack_scene1",
             "cid": 9436
         },
@@ -100643,10 +100643,10 @@
         },
         {
             "name": "arts/maps/map_lab/res.ab",
-            "hash": "95199002f81133609af51c49d8d7a28b",
-            "md5": "167e8d9ad79a4c3225df6d33eee6c102",
-            "totalSize": 3721512,
-            "abSize": 4385568,
+            "hash": "aaf9837c603e9aaead05ac9d81e20bcf",
+            "md5": "512eaaefaf036c817138c08df24b2d14",
+            "totalSize": 3736379,
+            "abSize": 4404205,
             "pid": "lpack_init9",
             "cid": 11060
         },
@@ -105159,10 +105159,10 @@
         },
         {
             "name": "scenes/activities/act21mini/level_act21mini_04/level_act21mini_04/lightingdata.ab",
-            "hash": "77ee3285c4b651c5dec019beacdb6dff",
-            "md5": "d0c862f2c90091bbd4036835967d2818",
-            "totalSize": 1179196,
-            "abSize": 1404276,
+            "hash": "2e557277c8aaa45ebec1d7666e1ddfa8",
+            "md5": "bc5f587e3b13d82364d337c0989a4943",
+            "totalSize": 1196916,
+            "abSize": 1421556,
             "pid": "lpack_scene5",
             "cid": 11562
         },
@@ -130703,7 +130703,7 @@
             "cid": 14443
         }
     ],
-    "manifestName": "2a67d55e5b7090ad54f2f335a067a659.idx",
+    "manifestName": "74421a7e5a4a74113c80ea501671bf4c.idx",
     "manifestVersion": "V075",
     "packInfos": [
         {
@@ -130734,7 +130734,7 @@
             "name": "lpack_init4",
             "hash": "",
             "md5": "",
-            "totalSize": 336029109,
+            "totalSize": 336029235,
             "abSize": 0,
             "cid": 14447
         },
@@ -130774,7 +130774,7 @@
             "name": "lpack_init9",
             "hash": "",
             "md5": "",
-            "totalSize": 355363048,
+            "totalSize": 355377915,
             "abSize": 0,
             "cid": 14452
         },
@@ -130966,7 +130966,7 @@
             "name": "lpack_lart1",
             "hash": "",
             "md5": "",
-            "totalSize": 395444742,
+            "totalSize": 395444405,
             "abSize": 0,
             "cid": 14476
         },
@@ -131118,7 +131118,7 @@
             "name": "lpack_scene1",
             "hash": "",
             "md5": "",
-            "totalSize": 314902618,
+            "totalSize": 314910158,
             "abSize": 0,
             "cid": 14495
         },
@@ -131150,7 +131150,7 @@
             "name": "lpack_scene5",
             "hash": "",
             "md5": "",
-            "totalSize": 370960182,
+            "totalSize": 370977902,
             "abSize": 0,
             "cid": 14499
         },
