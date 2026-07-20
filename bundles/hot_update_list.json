@@ -1,12 +1,12 @@
 {
-    "versionId": "26-07-16-07-17-21_6a3550",
+    "versionId": "26-07-20-09-52-01_970b78",
     "abInfos": [
         {
-            "name": "b2b9cbbe4cad0c7af8ffa9582d09af52.idx",
-            "hash": "26-07-16-07-17-21_6a3550",
-            "md5": "233ca47277266e4b51840fe0d2698794",
-            "totalSize": 3439114,
-            "abSize": 33181916,
+            "name": "f2b745e4f61e358ec38d1e4c3972d586.idx",
+            "hash": "26-07-20-09-52-01_970b78",
+            "md5": "288e46afccea0dc190a3bf17793cf3eb",
+            "totalSize": 3439077,
+            "abSize": 33182276,
             "cid": 1,
             "cat": 1
         },
@@ -301,10 +301,10 @@
         },
         {
             "name": "config/buff_template_holder.ab",
-            "hash": "179a39912455dd20bcab50f01dfc1cef",
-            "md5": "4b6d574f6c848dc74b9d90019600e6b2",
-            "totalSize": 1429423,
-            "abSize": 1814548,
+            "hash": "8aff321299ceee915a3433e727a11465",
+            "md5": "3a0ed9cfbdea77a39130d2b6a7e5b903",
+            "totalSize": 1431390,
+            "abSize": 1817252,
             "cid": 36
         },
         {
@@ -20028,11 +20028,11 @@
             "meta": 1
         },
         {
-            "name": "anon/a83ab377e01e7f71c83d900f21baa536.bin",
+            "name": "anon/fcba939cf713020fc9a8b2a46abaa6de.bin",
             "hash": "969a",
             "md5": "969a",
-            "totalSize": 1698349,
-            "abSize": 2150449,
+            "totalSize": 1698677,
+            "abSize": 2150357,
             "cid": 2229,
             "meta": 1
         },
@@ -20245,10 +20245,10 @@
             "meta": 1
         },
         {
-            "name": "anon/df2a64826d3f1ce9e9d4c74eccd639a0.bin",
+            "name": "anon/48a065941beb58a33809080ea001dfe6.bin",
             "hash": "29df",
             "md5": "29df",
-            "totalSize": 1415,
+            "totalSize": 1416,
             "abSize": 1572,
             "cid": 2253,
             "meta": 1
@@ -20264,11 +20264,11 @@
             "meta": 1
         },
         {
-            "name": "anon/3419208f46d4271a2944c67ce6b55eb0.bin",
+            "name": "anon/705f309148e7789944f65977daf3192a.bin",
             "hash": "3886",
             "md5": "3886",
-            "totalSize": 348775,
-            "abSize": 433052,
+            "totalSize": 348792,
+            "abSize": 432962,
             "cid": 2255,
             "meta": 1
         },
@@ -20446,11 +20446,11 @@
             "meta": 1
         },
         {
-            "name": "anon/650b5b6e6d1e3a581543e20ebd7c872b.bin",
+            "name": "anon/7f92aa3fcf39fdcab84683a7cec87b56.bin",
             "hash": "e729",
             "md5": "e729",
-            "totalSize": 1682096,
-            "abSize": 2284989,
+            "totalSize": 1682239,
+            "abSize": 2285230,
             "cid": 2275,
             "meta": 1
         },
@@ -20500,11 +20500,11 @@
             "meta": 1
         },
         {
-            "name": "anon/39e417d08878fab9284be845b0210e42.bin",
+            "name": "anon/13a25de62346cc6c2c8d8737608fe96a.bin",
             "hash": "ec4e",
             "md5": "ec4e",
-            "totalSize": 21523,
-            "abSize": 28410,
+            "totalSize": 21515,
+            "abSize": 28404,
             "cid": 2281,
             "meta": 1
         },
@@ -20619,11 +20619,11 @@
             "meta": 1
         },
         {
-            "name": "anon/88b0ccf65fd97ffe7e35e9f8e3eaa65a.bin",
+            "name": "anon/91382c3f03add7d44a08c6263ac7ad73.bin",
             "hash": "d21c",
             "md5": "d21c",
-            "totalSize": 1118439,
-            "abSize": 1127856,
+            "totalSize": 1121885,
+            "abSize": 1131314,
             "cid": 2294,
             "cat": 1,
             "meta": 1
@@ -45517,10 +45517,10 @@
         },
         {
             "name": "battle/enm_pfb_2.ab",
-            "hash": "69bebaf290c8885a8e448cdd51bd0607",
-            "md5": "0ad54780599eb3649d5699662be94bcb",
-            "totalSize": 235913,
-            "abSize": 295313,
+            "hash": "90ea6b2d6e2ddde946e96da85df9e579",
+            "md5": "8548aafce4b14a1462899768ab7f63b4",
+            "totalSize": 237122,
+            "abSize": 295937,
             "pid": "lpack_init4",
             "cid": 5104
         },
@@ -45841,10 +45841,10 @@
         },
         {
             "name": "battle/prefabs/[uc]globalbuffs.ab",
-            "hash": "1c5cf63d76505f61fc6df55e41a8ef3d",
-            "md5": "104d71aac002196cbb4da0a1cbb783f2",
-            "totalSize": 154408,
-            "abSize": 196889,
+            "hash": "08f1fb84056c301d145a25055db01f24",
+            "md5": "badce53ea030b13b9f97abc2852c14fd",
+            "totalSize": 154791,
+            "abSize": 197164,
             "pid": "lpack_init4",
             "cid": 5140
         },
@@ -103242,11 +103242,11 @@
             "cid": 11348
         },
         {
-            "name": "anon/da5a4daf59057951ad7de440a994c98b.bin",
+            "name": "anon/4b2fec3e9c484704d857435b181b345e.bin",
             "hash": "7fa2",
             "md5": "7fa2",
-            "totalSize": 3520546,
-            "abSize": 4908647,
+            "totalSize": 3520567,
+            "abSize": 4908733,
             "cid": 11349,
             "meta": 1
         },
@@ -132644,10 +132644,10 @@
         },
         {
             "name": "refs/rglktp_rogue_6add.ab",
-            "hash": "a7033aa4372c5095f7acb1c9c2535631",
-            "md5": "884ab829ffa6ce5e7aa54c2be0bba96a",
-            "totalSize": 49098640,
-            "abSize": 57358013,
+            "hash": "bb168d70b937541232f7b900e43538cf",
+            "md5": "66424d728f12847122abd91e368300f8",
+            "totalSize": 49098218,
+            "abSize": 57357451,
             "cid": 14654
         },
         {
@@ -133212,7 +133212,7 @@
             "cid": 14722
         }
     ],
-    "manifestName": "b2b9cbbe4cad0c7af8ffa9582d09af52.idx",
+    "manifestName": "f2b745e4f61e358ec38d1e4c3972d586.idx",
     "manifestVersion": "V075",
     "packInfos": [
         {
@@ -133243,7 +133243,7 @@
             "name": "lpack_init4",
             "hash": "",
             "md5": "",
-            "totalSize": 336720856,
+            "totalSize": 336722448,
             "abSize": 0,
             "cid": 14726
         },
