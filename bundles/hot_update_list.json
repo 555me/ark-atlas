@@ -1,12 +1,12 @@
 {
-    "versionId": "26-07-30-09-00-07_7e12e2",
+    "versionId": "26-08-03-23-35-52_3445f2",
     "abInfos": [
         {
-            "name": "e7976b64029bc95a74b551d8169c6d05.idx",
-            "hash": "26-07-30-09-00-07_7e12e2",
-            "md5": "121b6535da2f26a2c0a43e2649adc244",
-            "totalSize": 3504406,
-            "abSize": 33782792,
+            "name": "f57cc56be90f743a4b6e5be5e6fb7ad6.idx",
+            "hash": "26-08-03-23-35-52_3445f2",
+            "md5": "b6ca973ecb61c90f113db28548d772c4",
+            "totalSize": 3504004,
+            "abSize": 33783856,
             "cid": 1,
             "cat": 1
         },
@@ -301,10 +301,10 @@
         },
         {
             "name": "config/buff_template_holder.ab",
-            "hash": "c35217442d33138df5e1bbd56ae81122",
-            "md5": "e0738405b212f6a92a084b495c824bf2",
-            "totalSize": 1495934,
-            "abSize": 1907040,
+            "hash": "ec8d13530c70496ddaa161a4277d96b6",
+            "md5": "9cc40efe42339327296704dabdc96164",
+            "totalSize": 1495725,
+            "abSize": 1907179,
             "cid": 36
         },
         {
@@ -19434,10 +19434,10 @@
         },
         {
             "name": "avg/images/76_i08.ab",
-            "hash": "7f3da373e3f9388eff8de462ec3503e4",
-            "md5": "a5478300f94293a69b498a7f7f5b8a8e",
-            "totalSize": 1330261,
-            "abSize": 1414607,
+            "hash": "639b53c9db6f6d8c3d5481d30559cff2",
+            "md5": "7359ae173701e77ed42e8fc0100f5ad0",
+            "totalSize": 1320939,
+            "abSize": 1415032,
             "pid": "lpack_misc12",
             "cid": 2162
         },
@@ -20910,11 +20910,11 @@
             "meta": 1
         },
         {
-            "name": "anon/fe27d7729d2647afd28853130c6517fe.bin",
+            "name": "anon/e4554933f40f1165fd19f4a455534037.bin",
             "hash": "969a",
             "md5": "969a",
-            "totalSize": 1764510,
-            "abSize": 2241112,
+            "totalSize": 1765422,
+            "abSize": 2241664,
             "cid": 2327,
             "meta": 1
         },
@@ -20937,11 +20937,11 @@
             "meta": 1
         },
         {
-            "name": "anon/67721df674bb0f874d68ccfe97ea5baa.bin",
+            "name": "anon/561423b3a6708652fbdc618508d1bb7c.bin",
             "hash": "6552",
             "md5": "6552",
-            "totalSize": 6998,
-            "abSize": 8517,
+            "totalSize": 6943,
+            "abSize": 8447,
             "cid": 2330,
             "meta": 1
         },
@@ -20991,21 +20991,21 @@
             "meta": 1
         },
         {
-            "name": "anon/6078828fa8ea521e1927da1b8ff21b06.bin",
+            "name": "anon/1710596e077cbd5e4db6c3fc7306575a.bin",
             "hash": "9537",
             "md5": "9537",
-            "totalSize": 493341,
-            "abSize": 642173,
+            "totalSize": 493323,
+            "abSize": 642152,
             "cid": 2336,
             "cat": 1,
             "meta": 1
         },
         {
-            "name": "anon/ac6739a4fa42260b819ef89e9dc7d5e2.bin",
+            "name": "anon/76be634ab2d2a0312d9b5dde9aec3efd.bin",
             "hash": "affa",
             "md5": "affa",
-            "totalSize": 313289,
-            "abSize": 379807,
+            "totalSize": 313292,
+            "abSize": 379810,
             "cid": 2337,
             "meta": 1
         },
@@ -21136,10 +21136,10 @@
             "meta": 1
         },
         {
-            "name": "anon/6d3e5654a10d9b6efa20e70327202d9f.bin",
+            "name": "anon/e87df78f0902243274c3e1acc9ec7e03.bin",
             "hash": "29df",
             "md5": "29df",
-            "totalSize": 1415,
+            "totalSize": 1416,
             "abSize": 1572,
             "cid": 2352,
             "meta": 1
@@ -21337,11 +21337,11 @@
             "meta": 1
         },
         {
-            "name": "anon/f4d894274bfffe93b5903ed2546d8f29.bin",
+            "name": "anon/1630da74c6438388ddc89d1cd34c3343.bin",
             "hash": "e729",
             "md5": "e729",
-            "totalSize": 1683105,
-            "abSize": 2286879,
+            "totalSize": 1683129,
+            "abSize": 2286899,
             "cid": 2374,
             "meta": 1
         },
@@ -21373,11 +21373,11 @@
             "meta": 1
         },
         {
-            "name": "anon/00eff7f9711398d8c3ee14033c721598.bin",
+            "name": "anon/31be64aad86314444457e14ba8f352c1.bin",
             "hash": "652c",
             "md5": "652c",
-            "totalSize": 599147,
-            "abSize": 794065,
+            "totalSize": 599144,
+            "abSize": 794069,
             "cid": 2378,
             "meta": 1
         },
@@ -21400,11 +21400,11 @@
             "meta": 1
         },
         {
-            "name": "anon/7c4a4ba2d2a35e9be6b2a11506beef36.bin",
+            "name": "anon/b9dfa21354512fca74e96696f8d86dc1.bin",
             "hash": "5402",
             "md5": "5402",
-            "totalSize": 1067339,
-            "abSize": 1545234,
+            "totalSize": 1067332,
+            "abSize": 1545227,
             "cid": 2381,
             "meta": 1
         },
@@ -21510,11 +21510,11 @@
             "meta": 1
         },
         {
-            "name": "anon/104cdb4781a2356b9bfb339889bb0227.bin",
+            "name": "anon/c283860088c8c03f663d804137d00ad1.bin",
             "hash": "d21c",
             "md5": "d21c",
-            "totalSize": 1106638,
-            "abSize": 1116864,
+            "totalSize": 1110558,
+            "abSize": 1119629,
             "cid": 2393,
             "cat": 1,
             "meta": 1
@@ -31550,10 +31550,10 @@
         },
         {
             "name": "arts/dynchars/char_2026_yu_nian#12.ab",
-            "hash": "ee3244376255de8ffb196b3d9c7033ce",
-            "md5": "395e528c609028f4ce2fd42efce6fca4",
-            "totalSize": 14354383,
-            "abSize": 17946673,
+            "hash": "d23e5790535ee7b50f821db6c41e9436",
+            "md5": "fbd23689f225d0e85055640e7396f6b6",
+            "totalSize": 14331163,
+            "abSize": 17917096,
             "type": "dyn_illust",
             "pid": "lpack_dynilst2",
             "cid": 3553
@@ -31850,10 +31850,10 @@
         },
         {
             "name": "arts/dynchars/char_4134_cetsyr_epoque#50.ab",
-            "hash": "75d770b20ffdcb666123d0ebd49e9de5",
-            "md5": "69cca7d9f652e96f34d79e1cec3b4f66",
-            "totalSize": 14902847,
-            "abSize": 17072914,
+            "hash": "073783aa6e4ab7cdf8987fadd2ad07ec",
+            "md5": "0af1f5f80c5b8556fdb59107c80790e2",
+            "totalSize": 14882165,
+            "abSize": 17045921,
             "type": "dyn_illust",
             "pid": "lpack_dynilst2",
             "cid": 3583
@@ -32387,19 +32387,19 @@
         },
         {
             "name": "arts/ui_item_icons_7.ab",
-            "hash": "44763510bcade280b7ffd2b83282d120",
-            "md5": "d7c8889506d4c9721583b8a3845e3432",
-            "totalSize": 2458191,
-            "abSize": 2690656,
+            "hash": "57000273f909e64f0a2744049a38754b",
+            "md5": "746bfac934fc12578aac8da82bb14ed2",
+            "totalSize": 2446213,
+            "abSize": 2682883,
             "pid": "lpack_init3",
             "cid": 3642
         },
         {
             "name": "arts/items/icons/icon_hub.ab",
-            "hash": "aeeb729f5213eb792071422f53239b48",
-            "md5": "debeb3dca5122bef318c092671a698db",
-            "totalSize": 18107,
-            "abSize": 24205,
+            "hash": "7a2c36bf7c4b61f7eb217a44cec282f6",
+            "md5": "ee451c24295605c05af69334ba822aa0",
+            "totalSize": 18130,
+            "abSize": 24235,
             "pid": "lpack_lcom",
             "cid": 3643
         },
@@ -36904,10 +36904,10 @@
         },
         {
             "name": "avg/fx/battle.ab",
-            "hash": "83a9096668269a2f7415e924f0db96b6",
-            "md5": "d2df5512abbd2c1834682369d8d0a500",
-            "totalSize": 4659707,
-            "abSize": 5843868,
+            "hash": "17488a6a0cb01ad074b146086033ca62",
+            "md5": "d254b81a8de278c76d42125e0d1546bf",
+            "totalSize": 4652171,
+            "abSize": 5832622,
             "pid": "lpack_misc21",
             "cid": 4144
         },
@@ -41350,10 +41350,10 @@
         },
         {
             "name": "battle/prefabs/effects/amiya2.ab",
-            "hash": "fa1a433b8581b7d481e0d80d4fd3cd45",
-            "md5": "e2f48a414cafb09cc6bc8b235e4c6e5a",
-            "totalSize": 1812790,
-            "abSize": 2401617,
+            "hash": "5901bfa5559ebaaf6a75e26203da1ff5",
+            "md5": "b81a5e76b4e040f3b91e44421a8de7f6",
+            "totalSize": 1804665,
+            "abSize": 2390665,
             "pid": "lpack_init4",
             "cid": 4638
         },
@@ -41386,10 +41386,10 @@
         },
         {
             "name": "battle/prefabs/effects/angel2.ab",
-            "hash": "937b682f792c2da9d75f906052618951",
-            "md5": "55dc340f528f3e89b68dce45d4a0e708",
-            "totalSize": 1167666,
-            "abSize": 1624417,
+            "hash": "d7318cb76c6b7275d7b5f199847a7400",
+            "md5": "bbf263457bd9d94265d9d7c577aa8c37",
+            "totalSize": 1144516,
+            "abSize": 1595331,
             "pid": "lpack_init4",
             "cid": 4642
         },
@@ -41845,10 +41845,10 @@
         },
         {
             "name": "battle/prefabs/effects/breeze.ab",
-            "hash": "e43a5cae21bf6ea4fbfc82a474d3ce29",
-            "md5": "ee4673fa4d1dba79665469d89f1ef6da",
-            "totalSize": 270467,
-            "abSize": 383810,
+            "hash": "22c0d7fbe58161f1c4662ac34b75231e",
+            "md5": "c743ffa544c69216a11c813aae4c418d",
+            "totalSize": 270794,
+            "abSize": 383905,
             "pid": "lpack_init4",
             "cid": 4693
         },
@@ -43103,10 +43103,10 @@
         },
         {
             "name": "battle/prefabs/effects/gallus.ab",
-            "hash": "9c82225929dd6f74cf5f358fc627ca81",
-            "md5": "133b327ddcf9e3d1dc890db7eccc7beb",
-            "totalSize": 88856,
-            "abSize": 131062,
+            "hash": "ccb7b27efd252ca021e1fc2a0eb270d9",
+            "md5": "f580c37a6855c71591776a15fecab0a7",
+            "totalSize": 88976,
+            "abSize": 131101,
             "pid": "lpack_init4",
             "cid": 4835
         },
@@ -44686,10 +44686,10 @@
         },
         {
             "name": "battle/prefabs/effects/papyrs.ab",
-            "hash": "fe426daf5ee7175a8479a08435a190b4",
-            "md5": "c930f59c4c351a1386ba8a1ff951c9d4",
-            "totalSize": 228918,
-            "abSize": 329375,
+            "hash": "8c4004897eccadbc6544e9132d5eb265",
+            "md5": "0fff31d9f942dc7b517b9dcc7d9c4c38",
+            "totalSize": 229376,
+            "abSize": 329421,
             "pid": "lpack_init4",
             "cid": 5012
         },
@@ -44875,10 +44875,10 @@
         },
         {
             "name": "battle/prefabs/effects/popka.ab",
-            "hash": "48087b0df267efe3470db150791058a9",
-            "md5": "eab3ef8beaf8366f950ad7c854163ebf",
-            "totalSize": 161987,
-            "abSize": 237610,
+            "hash": "e41c192f3cbd7cab50d89c277d1e5cd8",
+            "md5": "b226090b6a6f5c6eb63da1250393a455",
+            "totalSize": 294330,
+            "abSize": 404597,
             "pid": "lpack_init4",
             "cid": 5033
         },
@@ -44983,10 +44983,10 @@
         },
         {
             "name": "battle/prefabs/effects/ray.ab",
-            "hash": "03cd6d9d52f7e6f0550ec80afa80436b",
-            "md5": "44056cae5b2638fa4b76c518f23ef529",
-            "totalSize": 1024786,
-            "abSize": 1394458,
+            "hash": "b3d756051ecd665be8f18e989868b897",
+            "md5": "cddfa98e8161e7e37051adf5ba9def6e",
+            "totalSize": 1025441,
+            "abSize": 1395735,
             "pid": "lpack_init4",
             "cid": 5045
         },
@@ -45100,10 +45100,10 @@
         },
         {
             "name": "battle/prefabs/effects/rmixer.ab",
-            "hash": "458e639fbddc736c7b745783fce56991",
-            "md5": "4892204aea55a1e50a2099bad11de28a",
-            "totalSize": 1231755,
-            "abSize": 1646349,
+            "hash": "ba435b6b3e61f4875962cd531fea35db",
+            "md5": "ec0d4efe25aa6762e3e9d3ce28b0e3fc",
+            "totalSize": 1231959,
+            "abSize": 1646513,
             "pid": "lpack_init4",
             "cid": 5058
         },
@@ -46113,10 +46113,10 @@
         },
         {
             "name": "battle/prefabs/effects/turdus.ab",
-            "hash": "baa664b8a278a8b013297bfc20122955",
-            "md5": "542a5d5bc00274fc6179bac49f554131",
-            "totalSize": 152103,
-            "abSize": 220217,
+            "hash": "7ea2b00ae8876553d1a4e6ad86055c3c",
+            "md5": "c9324b8ce7662db9acd9abf154638e14",
+            "totalSize": 152208,
+            "abSize": 220197,
             "pid": "lpack_init4",
             "cid": 5171
         },
@@ -46590,10 +46590,10 @@
         },
         {
             "name": "battle/enm_pfb_34.ab",
-            "hash": "c43b7a537db1a0ca4131a358133a054d",
-            "md5": "d32d8651c1e13ef7d6a44ad4c7751a07",
-            "totalSize": 229726,
-            "abSize": 294447,
+            "hash": "cda68ae0c58c7f8443ac990ed8fd9693",
+            "md5": "6a434a0f4076603acd0b35114c14234d",
+            "totalSize": 229124,
+            "abSize": 294198,
             "pid": "lpack_init4",
             "cid": 5224
         },
@@ -49542,12 +49542,21 @@
             "meta": 1
         },
         {
-            "name": "anon/6429b4ea0ae9983e790007db9d889efd.bin",
+            "name": "anon/a7dc78344c331e7b1ac73444408175ca.bin",
             "hash": "4302",
             "md5": "4302",
-            "totalSize": 1200419,
-            "abSize": 1418098,
+            "totalSize": 1218128,
+            "abSize": 1438197,
             "cid": 5555,
+            "meta": 1
+        },
+        {
+            "name": "anon/241e14fd4e32045a3ec5009761d95c5b.bin",
+            "hash": "bc1f",
+            "md5": "bc1f",
+            "totalSize": 128609,
+            "abSize": 152071,
+            "cid": 5556,
             "meta": 1
         },
         {
@@ -49556,7 +49565,7 @@
             "md5": "63fb",
             "totalSize": 1380129,
             "abSize": 1636185,
-            "cid": 5556,
+            "cid": 5557,
             "meta": 1
         },
         {
@@ -49565,7 +49574,7 @@
             "md5": "2b9b",
             "totalSize": 131185,
             "abSize": 155357,
-            "cid": 5557,
+            "cid": 5558,
             "meta": 1
         },
         {
@@ -49574,7 +49583,7 @@
             "md5": "5d1a",
             "totalSize": 838035,
             "abSize": 962611,
-            "cid": 5558,
+            "cid": 5559,
             "meta": 1
         },
         {
@@ -49583,7 +49592,7 @@
             "md5": "337c",
             "totalSize": 338578,
             "abSize": 392777,
-            "cid": 5559,
+            "cid": 5560,
             "meta": 1
         },
         {
@@ -49592,7 +49601,7 @@
             "md5": "398b",
             "totalSize": 950990,
             "abSize": 1130422,
-            "cid": 5560,
+            "cid": 5561,
             "meta": 1
         },
         {
@@ -49601,7 +49610,7 @@
             "md5": "1b26",
             "totalSize": 394473,
             "abSize": 462489,
-            "cid": 5561,
+            "cid": 5562,
             "meta": 1
         },
         {
@@ -49610,7 +49619,7 @@
             "md5": "8b81",
             "totalSize": 852805,
             "abSize": 1003154,
-            "cid": 5562,
+            "cid": 5563,
             "meta": 1
         },
         {
@@ -49619,7 +49628,7 @@
             "md5": "002a",
             "totalSize": 317307,
             "abSize": 375183,
-            "cid": 5563,
+            "cid": 5564,
             "meta": 1
         },
         {
@@ -49628,7 +49637,7 @@
             "md5": "a380",
             "totalSize": 774921,
             "abSize": 921433,
-            "cid": 5564,
+            "cid": 5565,
             "meta": 1
         },
         {
@@ -49637,7 +49646,7 @@
             "md5": "5c44",
             "totalSize": 657371,
             "abSize": 760875,
-            "cid": 5565,
+            "cid": 5566,
             "meta": 1
         },
         {
@@ -49646,7 +49655,7 @@
             "md5": "ec8b",
             "totalSize": 1145632,
             "abSize": 1372332,
-            "cid": 5566,
+            "cid": 5567,
             "meta": 1
         },
         {
@@ -49655,7 +49664,7 @@
             "md5": "2dff",
             "totalSize": 592980,
             "abSize": 711068,
-            "cid": 5567,
+            "cid": 5568,
             "meta": 1
         },
         {
@@ -49664,7 +49673,7 @@
             "md5": "1da8",
             "totalSize": 751930,
             "abSize": 891207,
-            "cid": 5568,
+            "cid": 5569,
             "meta": 1
         },
         {
@@ -49673,7 +49682,7 @@
             "md5": "155c",
             "totalSize": 1132484,
             "abSize": 1345064,
-            "cid": 5569,
+            "cid": 5570,
             "meta": 1
         },
         {
@@ -49682,16 +49691,16 @@
             "md5": "f0c7",
             "totalSize": 314339,
             "abSize": 381661,
-            "cid": 5570,
+            "cid": 5571,
             "meta": 1
         },
         {
-            "name": "anon/3c75ce372ca65e8d7a8bc2277c9494d0.bin",
+            "name": "anon/9df8db028301020fd9e27b6442ee9ff6.bin",
             "hash": "306b",
             "md5": "306b",
-            "totalSize": 1105598,
-            "abSize": 1325855,
-            "cid": 5571,
+            "totalSize": 1105223,
+            "abSize": 1327041,
+            "cid": 5572,
             "meta": 1
         },
         {
@@ -49700,7 +49709,7 @@
             "md5": "799e",
             "totalSize": 906524,
             "abSize": 1051832,
-            "cid": 5572,
+            "cid": 5573,
             "meta": 1
         },
         {
@@ -49709,15 +49718,6 @@
             "md5": "c46f",
             "totalSize": 523974,
             "abSize": 630535,
-            "cid": 5573,
-            "meta": 1
-        },
-        {
-            "name": "anon/b9abf4a7602b50dfb85fc4b5c984e8eb.bin",
-            "hash": "bc1f",
-            "md5": "bc1f",
-            "totalSize": 22560,
-            "abSize": 25666,
             "cid": 5574,
             "meta": 1
         },
@@ -49860,7 +49860,7 @@
             "md5": "d6c4dbc47594e93719293687099d0774",
             "totalSize": 459802,
             "abSize": 574792,
-            "pid": "lpack_init4",
+            "pid": "lpack_init5",
             "cid": 5590
         },
         {
@@ -49991,10 +49991,10 @@
         },
         {
             "name": "ui/arkodc/[uc]ark_odc_act53side.ab",
-            "hash": "8ec6455456f6d42cc2a1f9db34d46c72",
-            "md5": "c4fe9842648520d21a897134ed937408",
-            "totalSize": 6668493,
-            "abSize": 7626766,
+            "hash": "80e0ead75217d8587368abb29e4a5cfd",
+            "md5": "71ece0b605de40f45477360b6857d839",
+            "totalSize": 6668733,
+            "abSize": 7628745,
             "pid": "lpack_init5",
             "cid": 5605
         },
@@ -50927,10 +50927,10 @@
         },
         {
             "name": "arts/dynchars/effect.ab",
-            "hash": "b278d3ecac94e827fb0b9525e4f419ab",
-            "md5": "6e8d9b4822bed96b8460ca5dfdaad52a",
-            "totalSize": 19720913,
-            "abSize": 24602869,
+            "hash": "8026001a373d62715649c6076b72836b",
+            "md5": "d044b163db93949702c838bfe07e7f44",
+            "totalSize": 19697535,
+            "abSize": 24574055,
             "type": "dyn_illust",
             "pid": "lpack_dynilst2",
             "cid": 5709
@@ -52980,19 +52980,19 @@
         },
         {
             "name": "arts/shop/gptabimage/tabicon/icon_hub.ab",
-            "hash": "5ac8233fa15fa316e30a9ee823bc6a38",
-            "md5": "52a125fa59d638976aaa4e8bcb715314",
-            "totalSize": 2364,
-            "abSize": 2924,
+            "hash": "5577600cd6ab0416b1e653ac14cb9371",
+            "md5": "e2574448a76eca7591080748a6d1e0fe",
+            "totalSize": 2340,
+            "abSize": 2899,
             "pid": "lpack_init6",
             "cid": 5937
         },
         {
             "name": "spritepack/arts_shop_gp_tab_icon_image_h2_0.ab",
-            "hash": "372c81c287ae2c181dfa34f93c7f2511",
-            "md5": "e2d8ebadb3fda4e9b038d6d1c2bc82b8",
-            "totalSize": 16668,
-            "abSize": 20591,
+            "hash": "cc7d6797d628cd623e453a22715d06e5",
+            "md5": "af2340c09eb34e924d56ec08673f7c0c",
+            "totalSize": 15856,
+            "abSize": 19640,
             "pid": "lpack_init6",
             "cid": 5938
         },
@@ -53367,10 +53367,10 @@
         },
         {
             "name": "spritepack/cg_gallery_thumbnail_sprites_4.ab",
-            "hash": "a5fc892673c68c2373af41a00fa20014",
-            "md5": "1ac1df03aaa7123e25b839db5c97ab18",
-            "totalSize": 5400821,
-            "abSize": 5819590,
+            "hash": "fe8db80e31cb6b7e5a0540b23d093d4c",
+            "md5": "f3f365e0c3b1a46e7a97bbadd3d88118",
+            "totalSize": 5400604,
+            "abSize": 5819963,
             "pid": "lpack_init6",
             "cid": 5980
         },
@@ -54393,10 +54393,10 @@
         },
         {
             "name": "arts/ui/namecardskin/[uc]nc_as2026_nightwatcher.ab",
-            "hash": "b5f87741279ec076b601c60718d88d7f",
-            "md5": "cab2d6ac46597bdeb40696463ff18c72",
-            "totalSize": 4081663,
-            "abSize": 4425747,
+            "hash": "3e3b507cf5a349aff06e386ecbb90858",
+            "md5": "d5927b02b5155764d7e086e65290c757",
+            "totalSize": 4058627,
+            "abSize": 4397386,
             "pid": "lpack_init7",
             "cid": 6094
         },
@@ -54663,10 +54663,10 @@
         },
         {
             "name": "spritepack/ui_roguelike_topic_item_h1_rogue_6_0.ab",
-            "hash": "ae9b2114d75d86917be1b71c595a9d14",
-            "md5": "a50421dfc9251abe721451b9ceacca4d",
-            "totalSize": 5697180,
-            "abSize": 6161461,
+            "hash": "3b91e39e4ebf4b7d5bb2247fb2af7531",
+            "md5": "b732fa276c084e0fe4f0985d04bd23a6",
+            "totalSize": 5731683,
+            "abSize": 6202619,
             "pid": "lpack_init7",
             "cid": 6124
         },
@@ -61324,46 +61324,46 @@
         },
         {
             "name": "audio/sound_beta_2/music/act53side/m_bat2_act53side.ab",
-            "hash": "bf572293619f37d771ee9d3d6e2118fe",
-            "md5": "6988e46130313edc6bd05febe09c40de",
-            "totalSize": 2431310,
-            "abSize": 2436916,
+            "hash": "54718d6b66a7aa092e6e5a3932163d1a",
+            "md5": "b856059abb803d9d393c388a9b106b36",
+            "totalSize": 2487403,
+            "abSize": 2493322,
             "pid": "lpack_music2",
             "cid": 6866
         },
         {
             "name": "audio/sound_beta_2/music/act53side/m_bat_act53side.ab",
-            "hash": "b1e45f02341b1e1fb54773c0ad2db7bf",
-            "md5": "b21ec6cde76353895fdd1d12f1585d42",
-            "totalSize": 2920369,
-            "abSize": 2922679,
+            "hash": "9a54f3b842a2c42ab016ccbc7961fddd",
+            "md5": "5692fbda0dc111f6e951a3472b35fa28",
+            "totalSize": 2820378,
+            "abSize": 2822062,
             "pid": "lpack_music2",
             "cid": 6867
         },
         {
             "name": "audio/sound_beta_2/music/act53side/m_bat_agbmes.ab",
-            "hash": "41f739f140c0b896eabee2f2c58bdf35",
-            "md5": "4189b42a6b34378dcf055c9d53d53aba",
-            "totalSize": 3999418,
-            "abSize": 4003076,
+            "hash": "1088476fe3c3ce3857f3cfac23b8ad66",
+            "md5": "e182b08a4bcf9ee3796e10edbaef8dce",
+            "totalSize": 4078026,
+            "abSize": 4081482,
             "pid": "lpack_music2",
             "cid": 6868
         },
         {
             "name": "audio/sound_beta_2/music/act53side/m_sys1_act53side.ab",
-            "hash": "70422b62149f60161b78c6bab69d674b",
-            "md5": "f7758c360a934ee21a740ae12070a2f3",
-            "totalSize": 2498784,
-            "abSize": 2501032,
+            "hash": "e0f5f8280462ea3a392ddb213f1844e2",
+            "md5": "1c5aa93b6565d8dc50677fdf2913dc6d",
+            "totalSize": 2568503,
+            "abSize": 2570247,
             "pid": "lpack_music2",
             "cid": 6869
         },
         {
             "name": "audio/sound_beta_2/music/act53side/m_sys2_act53side.ab",
-            "hash": "9e8cee72731bf60144ea2d77d69f514d",
-            "md5": "c229f027ffe27cbba4acec3e4fef62a8",
-            "totalSize": 3462433,
-            "abSize": 3473464,
+            "hash": "53b240aa7ee717627bcdedcf5ab1424a",
+            "md5": "751172b606e0fd0a8c943dec1d79f6b6",
+            "totalSize": 3653098,
+            "abSize": 3663994,
             "pid": "lpack_music2",
             "cid": 6870
         },
@@ -85943,11 +85943,11 @@
             "cid": 9382
         },
         {
-            "name": "anon/47fb82de4ad8d39bfa5c06cdb0b63108.bin",
+            "name": "anon/87635b9b9aa44eecb8347bcaa6195f5b.bin",
             "hash": "cc8f",
             "md5": "cc8f",
-            "totalSize": 3174575,
-            "abSize": 4325787,
+            "totalSize": 3174586,
+            "abSize": 4325826,
             "cid": 9383,
             "meta": 1
         },
@@ -101172,10 +101172,10 @@
         },
         {
             "name": "ui/stage/dynres/multiplebattle/multiple_battle_times_view.ab",
-            "hash": "e9b46a65a3d60bef547f47218a10cf60",
-            "md5": "3ffb638bf1414e2b4db2631e4d790289",
-            "totalSize": 22315,
-            "abSize": 28622,
+            "hash": "7095909cb4af0994bb736811eba1ed74",
+            "md5": "bc1ce7b9b5197dd126de864cad0db435",
+            "totalSize": 22336,
+            "abSize": 28655,
             "pid": "lpack_init8",
             "cid": 11112
         },
@@ -134030,10 +134030,10 @@
         },
         {
             "name": "refs/fx/texture/flow.ab",
-            "hash": "7003fe5244b05484156077bba54ca245",
-            "md5": "f56d65de518a394fe31c3d2355b361d6",
-            "totalSize": 11028577,
-            "abSize": 13525006,
+            "hash": "a2aac078945a58286c9e8c70d709b711",
+            "md5": "c43f48d748ea94757cfe538d0ec0c2ba",
+            "totalSize": 11049820,
+            "abSize": 13550486,
             "cid": 14802
         },
         {
@@ -134046,10 +134046,10 @@
         },
         {
             "name": "refs/fx/sharedbattle.ab",
-            "hash": "92abf767c667430c71d56a33034d27d6",
-            "md5": "3d373da31a47ee831c42ad1c320fcc61",
-            "totalSize": 2359024,
-            "abSize": 2942916,
+            "hash": "0404e2048cc3e2ada0b833183d29233d",
+            "md5": "3a4f59614f8d713277c1b00862e13da9",
+            "totalSize": 2358758,
+            "abSize": 2942942,
             "cid": 14804
         },
         {
@@ -134070,10 +134070,10 @@
         },
         {
             "name": "refs/fx/texture/trail.ab",
-            "hash": "9a1c819eb2ac78a9c229e3af894b4c50",
-            "md5": "c940d1a90d9719ad43a0af95db55162e",
-            "totalSize": 8195219,
-            "abSize": 9870646,
+            "hash": "f8a87b4b7dc19be9fd3d9a1d79cf4c5c",
+            "md5": "4fef1ec7d3c6e2dce66fd17594ff42a9",
+            "totalSize": 8205524,
+            "abSize": 9887722,
             "cid": 14807
         },
         {
@@ -134575,7 +134575,7 @@
             "cid": 14867
         }
     ],
-    "manifestName": "e7976b64029bc95a74b551d8169c6d05.idx",
+    "manifestName": "f57cc56be90f743a4b6e5be5e6fb7ad6.idx",
     "manifestVersion": "V076",
     "packInfos": [
         {
@@ -134598,7 +134598,7 @@
             "name": "lpack_init3",
             "hash": "",
             "md5": "",
-            "totalSize": 389110942,
+            "totalSize": 389098964,
             "abSize": 0,
             "cid": 14870
         },
@@ -134606,7 +134606,7 @@
             "name": "lpack_init4",
             "hash": "",
             "md5": "",
-            "totalSize": 335406303,
+            "totalSize": 335048858,
             "abSize": 0,
             "cid": 14871
         },
@@ -134614,7 +134614,7 @@
             "name": "lpack_init5",
             "hash": "",
             "md5": "",
-            "totalSize": 353605654,
+            "totalSize": 354065674,
             "abSize": 0,
             "cid": 14872
         },
@@ -134622,7 +134622,7 @@
             "name": "lpack_init6",
             "hash": "",
             "md5": "",
-            "totalSize": 377960890,
+            "totalSize": 377959837,
             "abSize": 0,
             "cid": 14873
         },
@@ -134630,7 +134630,7 @@
             "name": "lpack_init7",
             "hash": "",
             "md5": "",
-            "totalSize": 396395059,
+            "totalSize": 396406526,
             "abSize": 0,
             "cid": 14874
         },
@@ -134638,7 +134638,7 @@
             "name": "lpack_init8",
             "hash": "",
             "md5": "",
-            "totalSize": 365055622,
+            "totalSize": 365055643,
             "abSize": 0,
             "cid": 14875
         },
@@ -134750,7 +134750,7 @@
             "name": "lpack_misc12",
             "hash": "",
             "md5": "",
-            "totalSize": 288383791,
+            "totalSize": 288374469,
             "abSize": 0,
             "cid": 14889
         },
@@ -134822,7 +134822,7 @@
             "name": "lpack_misc21",
             "hash": "",
             "md5": "",
-            "totalSize": 285586193,
+            "totalSize": 285578657,
             "abSize": 0,
             "cid": 14898
         },
@@ -134838,7 +134838,7 @@
             "name": "lpack_lcom",
             "hash": "",
             "md5": "",
-            "totalSize": 49352116,
+            "totalSize": 49352139,
             "abSize": 0,
             "cid": 14900
         },
@@ -134862,7 +134862,7 @@
             "name": "lpack_dynilst2",
             "hash": "",
             "md5": "",
-            "totalSize": 260700748,
+            "totalSize": 260633468,
             "abSize": 0,
             "cid": 14903
         },
@@ -134910,7 +134910,7 @@
             "name": "lpack_music2",
             "hash": "",
             "md5": "",
-            "totalSize": 418658210,
+            "totalSize": 418953304,
             "abSize": 0,
             "cid": 14909
         },
